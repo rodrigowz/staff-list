@@ -1,8 +1,9 @@
 <center>
-# Staff List BOT
-How to use Staff List
+ 
+# Staff List
+How to use Staff List BOT
 
-## Features
+## 💎 Features
 - [x] Custom per guild prefixes;
 - [x] Custom per guild messages;
 - [x] Online 24/7
@@ -11,7 +12,7 @@ How to use Staff List
 * Max per guild lists:
   * 1 list.
   
-## Commands
+## 📟 Commands
 |COMMAND|DESCRIPTION|
 |------|------|
 |!help|Shows the help panel|
@@ -19,18 +20,18 @@ How to use Staff List
 |!prefix|Changes the prefix|
 |!stafflist|Sets the staff-list|
 
-## Setup
+## 💾 Setup
 Well, it is really easy...
 > Use `!stafflist create`;<br>
 > Provide the information the bot will ask you.
 
-## Support
+## 🙋 Support
 Join Staff List's [Support Server](https://discord.gg/3H5UmVb) if you need any kind of help, want to send suggestions, report issues, leave your feedback, or just know about the new updates.
 
-## Banner
+## 🖼️ Banner
 <a href="https://discord.com/oauth2/authorize?client_id=666691784839004174&scope=bot&permissions=158728"><img src="https://i.imgur.com/SNySWLh.png"></a>
 
-## Privacy Policy
+## 🔐 Privacy Policy
 **What kind of data do we store?**<br>
 We store the guild ID, roles IDs and messages IDs.<br>
 <br>
